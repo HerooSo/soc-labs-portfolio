@@ -53,10 +53,10 @@
 - [ ] Установка Splunk/Wazuh на Ubuntu
 - [ ] Настройка сбора логов с Windows
 
-### Планы
+### Планы 
 - [ ] Изучить 8 техник MITRE ATT&CK
-- [ ] Пройти TryHackMe: Cyber Security 101
-- [ ] Пройти TryHackMe: SOC Level 1
+- [ ] Пройти TryHackMe: Cyber Security 101 34%
+- [ ] Пройти TryHackMe: SOC Level 1 2%
 
 ---
 
