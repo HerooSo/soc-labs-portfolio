@@ -8,7 +8,7 @@
 
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com/твой_логин/soc-lab-portfolio)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
-[![Made with](https://img.shields.io/badge/Made%20with-VirtualBox%20%7C%20Splunk%20%7C%20Wazuh-orange)]()
+[![Made with](https://img.shields.io/badge/Made%20with-VmWare%20%7C%20Splunk%20%7C%20Wazuh-orange)]()
 
 </div>
 
