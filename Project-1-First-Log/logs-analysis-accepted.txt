@@ -1,0 +1,2 @@
+2026-07-31T06:51:19.780716+03:00 sergey-VMware-Virtual-Platform sshd-session[5765]: Accepted password for sergey from 127.0.0.1 port 34618 ssh2
+2026-07-31T06:57:01.531858+03:00 sergey-VMware-Virtual-Platform sshd-session[6475]: Accepted password for sergey from 192.168.231.136 port 43920 ssh2
