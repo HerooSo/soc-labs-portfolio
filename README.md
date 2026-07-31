@@ -50,15 +50,14 @@
 - [x] Развернуты Ubuntu 22.04 и Windows 10 в VirtualBox
 - [x] Выполнен анализ SSH-логов
 - [x] Зафиксированы "Failed password" и "Accepted password" в /var/log/auth.log
-
-### В процессе
-- [x] Установка Splunk/Wazuh на Ubuntu
 - [x] Настройка сбора логов с Windows
+- [x] Установка Splunk/Wazuh на Ubuntu
+### В процессе
+- [ ] Прохождение TryHackme: CyberSecurity 101; 34/100%
+- [ ] Прохожденеи TryHackme: SOC Level 1; 2/100%
 
 ### Планы 
 - [ ] Изучить 8 техник MITRE ATT&CK;
-- [ ] Пройти TryHackMe: Cyber Security 101; 34%
-- [ ] Пройти TryHackMe: SOC Level 1; 2%
 
 ---
 
