@@ -35,7 +35,7 @@
 
 | # | Проект | Описание | Статус |
 |---|--------|----------|--------|
-| 0 | First Log Analysis | Анализ SSH-логов, обнаружение брутфорса | В процессе |
+| 0 | First Log Analysis | Анализ SSH-логов, обнаружение брутфорса | Выполнено |
 
 ---
 
@@ -73,3 +73,4 @@
 
 - **GitHub:** [github.com/HerooSo](https://github.com/HerooSo)
 - **Email:** serezhkaivanov12@gmail.com
+- **TryHackMe:** https://tryhackme.com/p/emokid2007
