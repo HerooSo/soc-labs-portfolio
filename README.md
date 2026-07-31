@@ -35,14 +35,16 @@
 
 | # | Проект | Описание | Статус |
 |---|--------|----------|--------|
-| 0 | [First Log Analysis](Project-1-First-Log/) | Анализ SSH-логов, обнаружение брутфорса | Выполнено |
-
----
+| 1 | [First Log Analysis](Project-1-First-Log/) | Анализ SSH-логов, обнаружение брутфорса | Выполнено |
+| 2 | [SIEM deployment, log collection and analysis](Project-2-SIEM-Setup/)| Развертывание SIEM Wazuh (Docker) на Ubuntu 26.04, сбор логов с Windows 10, анализ событий безопасности и создание дашбордов для мониторинга | Выполнено |
+| 3 | Что-то скоро будет...
+ ---
 
 ## Прогресс
 
 ### Временная шкала
 - **Июль 2026** : Развернута лаборатория, Первый анализ логов (Проект номер 1)
+- **Август 2026** : Развернул SIEM на Wazuh в Docker на Ubuntu 26.04. (Проект номер 2)
 
 ### Выполненные задачи
 - [x] Развернуты Ubuntu 22.04 и Windows 10 в VirtualBox
@@ -50,13 +52,13 @@
 - [x] Зафиксированы "Failed password" и "Accepted password" в /var/log/auth.log
 
 ### В процессе
-- [ ] Установка Splunk/Wazuh на Ubuntu
-- [ ] Настройка сбора логов с Windows
+- [x] Установка Splunk/Wazuh на Ubuntu
+- [x] Настройка сбора логов с Windows
 
 ### Планы 
-- [ ] Изучить 8 техник MITRE ATT&CK
-- [ ] Пройти TryHackMe: Cyber Security 101 34%
-- [ ] Пройти TryHackMe: SOC Level 1 2%
+- [ ] Изучить 8 техник MITRE ATT&CK;
+- [ ] Пройти TryHackMe: Cyber Security 101; 34%
+- [ ] Пройти TryHackMe: SOC Level 1; 2%
 
 ---
 
