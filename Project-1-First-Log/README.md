@@ -1,8 +1,8 @@
 # Проект 1: Обнаружение SSH-брутфорса
 
-**Аналитик:** Сергей 
-**Дата:** 31 июля 2026 г. 
-**Статус:** Завершено
+**Аналитик:** Сергей  
+**Дата:** 31 июля 2026 г.  
+**Статус:** Завершено  
 
 ---
 
@@ -29,9 +29,9 @@
 sudo cat /var/log/auth.log | grep "Failed password" | tail -5
 ```
 **Результат:**
-2026-07-31T06:55:43.952544+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2
-2026-07-31T06:55:49.445688+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2
-2026-07-31T06:55:53.062410+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2
+2026-07-31T06:55:43.952544+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2  
+2026-07-31T06:55:49.445688+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2  
+2026-07-31T06:55:53.062410+03:00 sergey-VMware-Virtual-Platform sshd-session[6379]: Failed password for sergey from 192.168.231.136 port 39254 ssh2  
 
 **Статистика:**
 - **Всего попыток:** 5
@@ -43,9 +43,9 @@ sudo cat /var/log/auth.log | grep "Failed password" | tail -5
 **Команда:**
 ```bash
 sudo cat /var/log/auth.log | grep "Accepted password"
-
+```
 **Результат:**
-2026-07-31T06:51:19.780716+03:00 sergey-VMware-Virtual-Platform sshd-session[5765]: Accepted password for sergey from 127.0.0.1 port 34618 ssh2
+2026-07-31T06:51:19.780716+03:00 sergey-VMware-Virtual-Platform sshd-session[5765]: Accepted password for sergey from 127.0.0.1 port 34618 ssh2  
 
 ---
 
