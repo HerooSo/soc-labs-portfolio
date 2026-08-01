@@ -37,7 +37,7 @@
 |---|--------|----------|--------|
 | 1 | [First Log Analysis](Project-1-First-Log/) | Анализ SSH-логов, обнаружение брутфорса | Выполнено |
 | 2 | [SIEM deployment, log collection and analysis](Project-2-SIEM-Setup/)| Развертывание SIEM Wazuh (Docker) на Ubuntu 26.04, сбор логов с Windows 10, анализ событий безопасности и создание дашбордов для мониторинга | Выполнено |
-| 3 | Что-то скоро будет...
+| 3 | [ELK-based SIEM](Project-3-SIEM-ELK/)|Развертывание SIEM на базе Elasticsearch, Logstash, Kibana. Настройка и прием логов с Windows и Ubuntu| В процессе |
  ---
 
 ## Прогресс
