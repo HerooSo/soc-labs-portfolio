@@ -46,19 +46,6 @@
 - **Июль 2026** : Развернута лаборатория, Первый анализ логов (Проект номер 1)
 - **Август 2026** : Развернул SIEM на Wazuh в Docker на Ubuntu 26.04. (Проект номер 2)
 
-### Выполненные задачи
-- [x] Развернуты Ubuntu 22.04 и Windows 10 в VirtualBox
-- [x] Выполнен анализ SSH-логов
-- [x] Зафиксированы "Failed password" и "Accepted password" в /var/log/auth.log
-- [x] Настройка сбора логов с Windows
-- [x] Установка Splunk/Wazuh на Ubuntu
-### В процессе
-- [ ] Прохождение TryHackme: CyberSecurity 101; 34/100%
-- [ ] Прохожденеи TryHackme: SOC Level 1; 2/100%
-
-### Планы 
-- [ ] Изучить 8 техник MITRE ATT&CK;
-
 ---
 
 ## Полезные ресурсы
